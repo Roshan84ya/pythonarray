@@ -12,9 +12,7 @@ for i in range(row):            #here we have adeed so many list i.e the no of r
 for i in range(row):
     for j in range(col):
         matrix[i].append([])     #here we have added the c list again and we made the coloumn
-    
-
-        
+      
 for i in range(row):
     Relement=[int(t) for t in input().split()]
     for j in range(col):
